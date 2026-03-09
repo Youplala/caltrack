@@ -4,6 +4,14 @@ A lightweight, self-hosted calorie & macro tracker with a clean mobile-friendly 
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="260" alt="Dashboard">
+  <img src="screenshots/history.png" width="260" alt="History">
+  <img src="screenshots/settings.png" width="260" alt="Settings">
+</p>
+
 ## Features
 
 - **Daily tracking** — Log meals (breakfast, lunch, dinner, snacks) with calories & macros
@@ -25,7 +33,7 @@ cd caltrack
 python3 server.py
 ```
 
-Open `http://localhost:8888/calories/index.html` in your browser.
+Open `http://localhost:8888/index.html` in your browser.
 
 ## API
 
